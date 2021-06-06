@@ -1,0 +1,10 @@
+button{
+    height: 200%;
+    background-color: #2A2236;
+    color: white;
+}
+
+button:hover{
+    background-color: rgba(65, 68, 138, 1);
+    box-shadow: 3px 3px 3px 3px rgba(65, 68, 138, 0.3);
+}
